@@ -27,7 +27,6 @@ public class Intendente extends Personal{
    }
    
    public float  calcularUtilidad(){
-   String v = "Esto es un cambio";
    return 1;
    }
 }
